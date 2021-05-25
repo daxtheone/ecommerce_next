@@ -1,0 +1,61 @@
+
+
+1 =>
+
+  Extension:
+  * Bracket Pair Colorizer
+  * ES7 React
+  * Material Icon Theme
+  * Night Owl (es un theme)
+  * Path Intellisense
+  * Prettier code formatter   (Ir a settings -> save en el buscador -> editor format on save selected  )
+
+2 => npm install --global yarn
+
+3 => descargamos robomongo.org  Solo Robo 3T 1.4.3
+
+
+4 => yarn create next-app nombre
+
+5=> yarn para instalar las dependencias que hagan falta
+
+6 => yarn next
+
+
+7 => Creamos la carpeta scss => global.scss
+
+  7.1 vamos a https://yarnpkg.com/ 
+  7.2 yarn add node-sass@4.14.1
+  7.3 yarn dev
+
+8 => http://react.semantic-ui.com/
+
+    8.1 => get started  
+          yarn add semantic-ui-react semantic-ui-css
+          
+    8.2 => importamos de forma global 
+     import 'semantic-ui-css/semantic.min.css'
+
+    8.3=> podemos probar 
+     import { Button, Icon } from 'semantic-ui-react'
+
+    export default function Home() {
+      return (
+        <div className="home">
+          <h1>Estamos en Next Js</h1>
+          <div>
+            <Button primary>Primary</Button>
+            <Button secondary>Secondary</Button>
+            <Icon name='home' />
+
+          </div>
+          
+        </div>
+        )
+      }
+
+9 => Creamos la carpeta layouts
+  dentro BasicLayout/
+    BasicLayout.Js
+    BasicLayout.scss
+    index.js
