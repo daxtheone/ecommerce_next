@@ -59,3 +59,31 @@
     BasicLayout.Js
     BasicLayout.scss
     index.js
+
+
+
+10 => https://cloud.mongodb.com
+
+user: admin
+password: next123456   
+cluster: ecommerce-next
+
+
+mongodb+srv://admin:next123456@ecommerce-next.18rsw.mongodb.net/ecommerce?retryWrites=true&w=majority
+
+
+11 => https://strapi.io/documentation/developer-docs/latest/getting-started/quick-start.html#_1-install-strapi-and-create-a-new-project
+
+
+npx create-strapi-app ecommerce_back
+
+yarn develop
+
+danielricomaya@gmail.com
+Dax123456
+
+
+12 => AWS
+
+danielricomaya
+dax123456
