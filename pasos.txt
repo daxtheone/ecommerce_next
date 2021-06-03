@@ -80,13 +80,13 @@ npx create-strapi-app ecommerce_back
 yarn develop
 
 danielricomaya@gmail.com
-Dax123456
+Dax1*23456
 
 
 12 => AWS
 
 danielricomaya
-Dax123456
+Dax1*23456
 
 12.1 => Creamos el bucket
   bucket game-ecommerce-dax
@@ -105,10 +105,10 @@ Usuarios -> strapi-game-ecommerce
 strapi-game-ecommerce
 
 Id:
-AKIA6K7CBR6342KAYDIE
+*AKIA6K7CBR6342KAYDIE
 
 Clave:
-XgqbMkWieY75wwfJacxgBBByYMQ+mbd2LDINPkXS
+*XgqbMkWieY75wwfJacxgBBByYMQ+mbd2LDINPkXS
 
 
 vamos a https://strapi.io/documentation/developer-docs/latest/development/plugins/upload.html#using-a-provider
