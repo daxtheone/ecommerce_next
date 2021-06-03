@@ -4,6 +4,43 @@ export default function Home() {
   return ( 
     <BasicLayout >
       <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+      <h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+<h1>Estamos en la Home</h1>
+
+
     </BasicLayout>
   )
 }

@@ -86,4 +86,55 @@ Dax123456
 12 => AWS
 
 danielricomaya
-dax123456
+Dax123456
+
+12.1 => Creamos el bucket
+  bucket game-ecommerce-dax
+
+12.2 => IAM -> politica -> servicios - s3  (Todas las acciones de IAM  )
+      Recursos Específico
+      * object (cualquier)
+      * bucket -> agregar arn
+arn:aws:s3:::game-ecommerce-dax
+
+
+Usuarios -> strapi-game-ecommerce
+
+
+ usuario: 
+strapi-game-ecommerce
+
+Id:
+AKIA6K7CBR6342KAYDIE
+
+Clave:
+XgqbMkWieY75wwfJacxgBBByYMQ+mbd2LDINPkXS
+
+
+vamos a https://strapi.io/documentation/developer-docs/latest/development/plugins/upload.html#using-a-provider
+
+y seguimos los pasos en el proyecto strapi
+
+
+
+13 => instalamos formik y yup
+
+
+https://yarnpkg.com/?q=formik&p=1
+
+
+yarn add formik
+yarn add yup
+
+
+
+
+14 => Instalamos una libreria para toast
+
+https://yarnpkg.com/package/react-toastify
+
+
+15 => vamos a https://yarnpkg.com/package/jwt-decode
+
+
+yarn add jwt-decode
